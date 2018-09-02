@@ -1,0 +1,5 @@
+#
+# Example base docker file
+#
+
+FROM microsoft/iis
