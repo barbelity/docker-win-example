@@ -2,4 +2,4 @@
 # Example base docker file
 #
 
-FROM ecosysjfrog-docker-virtual.jfrog.io/microsoft/iis
+FROM microsoft/iis
